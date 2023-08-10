@@ -1,0 +1,163 @@
+Time 0: Enter command: show
+Display size: 25, scale: 2.00, origin: (0.00, 0.00)
+48 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+42 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+36 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+30 Du. . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+24 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . Bl. . . . Ca. . . . . . . . . . . . . . 
+18 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+12 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . Sh. . . . Ri. . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 6 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 0 . . . . . . . . . . . . . . . Su. . . . . . . . . 
+   0     6    12    18    24    30    36    42    48
+
+Time 0: Enter command: create Bug Peasant (0.00, 0.00)
+Time 0: Enter command: create Iriel Peasant (0.00, 0.00)
+Time 0: Enter command: create Merry Peasant (0.00, 0.00)
+Time 0: Enter command: create Pippin Peasant (0.00, 0.00)
+Time 0: Enter command: create Zug Peasant (0.00, 0.00)
+Time 0: Enter command: create Loki Thug (14.00, 14.00)
+Time 0: Enter command: create Gog Thug (24.00, 24.00)
+Time 0: Enter command: create Wallace Knight Rivendale
+Time 0: Enter command: show
+Display size: 25, scale: 2.00, origin: (0.00, 0.00)
+48 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+42 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+36 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+30 Du. . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+24 . . . . . . . . . . . . Go. . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . Bl. . . . Ca. . . . . . . . . . . . . . 
+18 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . Lo. . . . . . . . . . . . . . . . . 
+12 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . Sh. . . . Ri. . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 6 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 0 Zu. . . . . . . . . . . . . . Su. . . . . . . . . 
+   0     6    12    18    24    30    36    42    48
+
+Time 0: Enter command: Loki course 180 30
+Time 0: Enter command: Gog course 270 30
+Time 0: Enter command: Wallace destination Sunnybrook
+Time 0: Enter command: go
+Time 1: Enter command: show
+Display size: 25, scale: 2.00, origin: (0.00, 0.00)
+48 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+42 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+36 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+30 Du. . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+24 . . . . . . . . . . Go. . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . Bl. . . . Ca. . . . . . . . . . . . . . 
+18 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+12 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . Sh. Lo. . Ri. . . . . . . . . . . . . . 
+   . . . . . . . . . . . Wa. . . . . . . . . . . . . 
+ 6 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 0 Zu. . . . . . . . . . . . . . Su. . . . . . . . . 
+   0     6    12    18    24    30    36    42    48
+   
+Time 1: Enter command: status
+
+Castle Rivendale at position (20.00, 10.00), Inventory: 100
+Castle Blackness at position (10.00, 20.00), Inventory: 20
+Castle Sunnybrook at position (30.00, 0.00), Inventory: 50
+Farm Campbell at position (20.00, 20.00), Inventory: 14
+Farm Shire at position (10.00, 10.00), Inventory: 5
+Farm Dunvegan at position (0.00, 30.00), Inventory: 9
+Peasant Bug at (0.00, 0.00), Stopped
+Peasant Iriel at (0.00, 0.00), Stopped
+Peasant Merry at (0.00, 0.00), Stopped
+Peasant Pippin at (0.00, 0.00), Stopped 
+Peasant Zug at (0.00, 0.00), Stopped
+Thug Loki at (14.00, 11.00), Heading on course 180.00 deg, speed 30.00 km/h
+Thug Gog at (21.00, 24.00), Heading on course 270.00 deg, speed 30.00 km/h
+Knight Wallace at (20.71, 9.29), Heading to Sunnybrook, speed 10.00 km/h
+
+Time 1: Enter command: Zug start_working Campbell Sunnybrook
+Time 1: Enter command: go
+Time 2: Enter command: show
+Display size: 25, scale: 2.00, origin: (0.00, 0.00)
+48 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+42 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+36 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+30 Du. . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+24 . . . . . . . . . Go. . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . Bl. . . . Ca. . . . . . . . . . . . . . 
+18 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+12 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . Sh. . . . Ri. . . . . . . . . . . . . . 
+   . . . . . . . Lo. . . Wa. . . . . . . . . . . . . 
+ 6 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+   . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 0 Zu. . . . . . . . . . . . . . Su. . . . . . . . . 
+   0     6    12    18    24    30    36    42    48
+   
+Time 2: Enter command: status
+
+Castle Rivendale at position (20.00, 10.00), Inventory: 100
+Castle Blackness at position (10.00, 20.00), Inventory: 20
+Castle Sunnybrook at position (30.00, 0.00), Inventory: 50
+Farm Campbell at position (20.00, 20.00), Inventory: 18
+Farm Shire at position (10.00, 10.00), Inventory: 8
+Farm Dunvegan at position (0.00, 30.00), Inventory: 12
+Peasant Bug at (0.00, 0.00), Stopped
+Peasant Iriel at (0.00, 0.00), Stopped
+Peasant Merry at (0.00, 0.00), Stopped
+Peasant Pippin at (0.00, 0.00), Stopped 
+Peasant Zug at (0.35, 0.35), Heading to Campbell, speed 5.00 km/h
+Thug Loki at (14.00, 8.00), Heading on course 180.00 deg, speed 30.00 km/h
+Thug Gog at (18.00, 24.00), Heading on course 270.00 deg, speed 30.00 km/h
+Knight Wallace at (21.41, 8.58), Heading to Sunnybrook, speed 10.00 km/h

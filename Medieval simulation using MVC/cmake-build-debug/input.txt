@@ -1,0 +1,9 @@
+create Bug Peasant (0.00, 0.00)
+create Iriel Peasant (0.00, 0.00)
+create Merry Peasant (0.00, 0.00)
+create Pippin Peasant (0.00, 0.00)
+create Zug Peasant (0.00, 0.00)
+create Loki Thug (14.00, 14.00)
+create Gog Thug (24.00, 24.00)
+create Wallace Knight Rivendale
+Loki course 180 30
